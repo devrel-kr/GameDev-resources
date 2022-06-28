@@ -1,7 +1,11 @@
-# game-meetup-resources
+# Game Dev and community resources
 
-[클라우드 & 게임 개발자 모임](https://www.facebook.com/groups/919970028366036/)
-밋업에서 공유되었던 자료를 목록화하기 위한 공간입니다.
+[Microsoft Game Dev](https://aka.ms/gamedevkr) 및 [클라우드 & 게임 개발자 모임](https://www.facebook.com/groups/919970028366036/)
+밋업에서 공유되었던 자료 등 게임 개발에 유용한  목록화하기 위한 공간입니다.
+
+## Game Dev at GDC 2022
+
+* [GDC 2022 with Microsoft Game Dev](2022-03-GameDev_at_GDC)
 
 ## 밋업
 
